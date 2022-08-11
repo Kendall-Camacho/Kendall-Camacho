@@ -6,18 +6,16 @@ I have been programming for about 2 years.
 I am a Python[https://www.python.org/] and Javascript[https://www.javascript.com/] enthusiast.
 
 ## My skills
-I have a strong background in web development and support technician.
-[![My Skills](https://skills.thijs.gg/icons?i=py,cpp,css,git,html,js,bootstrap,flask,vite,github&perline=5)](https://skills.thijs.gg)
+
+### I have a strong background in web development and support technician.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongobd,express,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
   </a>
 </p>
 
+[![My Skills](https://skills.thijs.gg/icons?i=py,cpp,css,git,html,js,bootstrap,flask,vite,github&perline=5)](https://skills.thijs.gg)
+
+
 ## Im learning
 [![My Skills](https://skills.thijs.gg/icons?i=angular,arduino,raspberrypi,bash,cs,dotnet,visualstudio&perline=7)](https://skills.thijs.gg)
-
-
-
-## I like to code in:
-
