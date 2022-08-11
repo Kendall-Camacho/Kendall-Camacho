@@ -7,14 +7,19 @@ I am a Python[https://www.python.org/] and Javascript[https://www.javascript.com
 
 ## My skills
 
-### I have a strong background in web development and support technician.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
   </a>
 </p>
 
+<p align="left">
+
 [![My Skills](https://skills.thijs.gg/icons?i=py,cpp,css,git,html,js,bootstrap,flask,vite,github&perline=5)](https://skills.thijs.gg)
+
+</p>
+
+
 
 
 ## Im learning
