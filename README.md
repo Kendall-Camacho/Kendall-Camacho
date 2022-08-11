@@ -7,5 +7,17 @@ I am a Python[https://www.python.org/] and Javascript[https://www.javascript.com
 
 ## My skills
 I have a strong background in web development and support technician.
-[![My Skills](https://skills.thijs.gg/icons?i=py,cpp,css,git,html,js,mongobd,exoress,react,nodejs,arduino,bootstrap,flask,vite,raspberrypi,sass&perline=7)](https://skills.thijs.gg)
-# Kendall-Camacho
+[![My Skills](https://skills.thijs.gg/icons?i=py,cpp,css,git,html,js,bootstrap,flask,vite,github&perline=5)](https://skills.thijs.gg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongobd,express,react,nodejs" />
+  </a>
+</p>
+
+## Im learning
+[![My Skills](https://skills.thijs.gg/icons?i=angular,arduino,raspberrypi,bash,cs,dotnet,visualstudio&perline=7)](https://skills.thijs.gg)
+
+
+
+## I like to code in:
+
