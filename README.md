@@ -3,19 +3,16 @@
 ## My background
 Im a Web Developer and a support technician.
 I have been programming for about 2 years.
-I am a Python[https://www.python.org/] and Javascript[https://www.javascript.com/] enthusiast.
+I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript.com/) coder.
 
 ## My skills
 
 <p align="center">
-   <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
+   <a href="https://www.linkedin.com/in/kendall-camacho-24b895214/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="camacho" height="28px" width="28px" />
   </a>
    <a href="https://facebook.com/profile.php?id=100076193534743" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev" height="28px" width="28px" />
-  </a>
-  <a href="https://instagram.com/midu.dev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Kendall" height="28px" width="28px" />
   </a>
   <a href="https://twitter.com/644Camacho" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="camacho" height="28px" width="28px" />
