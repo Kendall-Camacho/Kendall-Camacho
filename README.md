@@ -7,25 +7,16 @@ I am a Python[https://www.python.org/] and Javascript[https://www.javascript.com
 
 ## My skills
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
   </a>
 </p>
 
-<p align="left">
-
 [![My Skills](https://skills.thijs.gg/icons?i=py,cpp,css,git,html,js,bootstrap,flask,vite,github&perline=5)](https://skills.thijs.gg)
-
-</p>
-
-<p align="right">
 
 ## Im learning
 [![My Skills](https://skills.thijs.gg/icons?i=angular,arduino,raspberrypi,bash,cs,dotnet,visualstudio&perline=7)](https://skills.thijs.gg)
-
-
-</p>
 
 
 
