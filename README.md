@@ -1,7 +1,5 @@
 # Hello! I am Kendall Camacho.
 
-## You can see my portfolio [here](https://kendall-camacho.netlify.app/)
-
 ## My background
 Im a Web Developer and a support technician.
 I have been programming for about 2 years.
@@ -28,6 +26,8 @@ I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript
 ----------
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendall-camacho&show_icons=true&locale=en&layout=compact" alt="kendall-camacho" /></p>
+
+#### You can see my portfolio [here](https://kendall-camacho.netlify.app/)
 
 
 
