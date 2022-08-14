@@ -1,5 +1,7 @@
 # Hello! I am Kendall Camacho.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a788a26d-2e5d-4aa7-8609-18a3ed4d7444/deploy-status)](https://app.netlify.com/sites/kendall-camacho/deploys)
+
 ## My background
 Im a Web Developer and a support technician.
 I have been programming for about 2 years.
