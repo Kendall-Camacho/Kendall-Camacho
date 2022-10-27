@@ -7,7 +7,7 @@ I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript
 
 ## My skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,cpp,css,git,html,js,bootstrap,flask,vite,github,mongodb,express,react,nodejs,linux,firebase,vite)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,cpp,css,git,html,js,bootstrap,flask,vite,github,mongodb,express,react,nodejs,linux,firebase)](https://skills.thijs.gg)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendall-camacho&" alt="kendall-camacho" /></p>
 
@@ -21,7 +21,7 @@ I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript
 </p>
 
 ## Im learning
-[![My Skills](https://skills.thijs.gg/icons?i=angular,arduino,raspberrypi,bash,cs,dotnet,visualstudio,docker,nvim&perline=7)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,arduino,raspberrypi,bash,cs,dotnet,visualstudio,docker,nvim&perline=9)](https://skills.thijs.gg)
 
 ----------
 
