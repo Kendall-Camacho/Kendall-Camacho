@@ -1,13 +1,12 @@
 # Hello! I am Kendall Camacho.
 
 ## My background
-Im a Web Developer and a support technician.
-I have been programming for about 2 years.
+Hi there!!! I am web developer and support technician (still in progress) with a passion for hacking. I have been programming for about 2 years and I specialize in Python and JavaScript. In addition to my development skills, I also have experience with Linux and MongoDB.
 I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript.com/) coder.
 
 ## My skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,cpp,css,git,html,js,bootstrap,flask,vite,github,mongodb,express,react,nodejs,linux,firebase)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,css,git,html,js,bootstrap,vite,flask,vite,github,mongodb,express,react,nodejs,linux,firebase&theme=dark)](https://skillicons.dev)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendall-camacho&" alt="kendall-camacho" /></p>
 
@@ -21,7 +20,7 @@ I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript
 </p>
 
 ## Im learning
-[![My Skills](https://skills.thijs.gg/icons?i=angular,arduino,raspberrypi,bash,cs,dotnet,visualstudio,docker,nvim&perline=9)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=angular,arduino,raspberrypi,bash,cs,dotnet,visualstudio,docker,nvim&theme=dark&perline=9)](https://skillicons.dev)
 
 ----------
 
