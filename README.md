@@ -4,9 +4,15 @@
 Hi there!!! I am web developer and support technician (still in progress) with a passion for hacking. I have been programming for about 2 years and I specialize in Python and JavaScript. In addition to my development skills, I also have experience with Linux and MongoDB.
 I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript.com/) coder.
 
-## My skills
+## Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,css,git,html,js,bootstrap,flask,vite,github,mongodb,express,react,nodejs,linux,firebase&theme=dark)](https://skillicons.dev)
+<!-- python git js flask github mongodb express react nodejs linux, firebase, -->
+
+[![My Skills](https://skillicons.dev/icons?i=py,git,html,js,flask,vite,github,mongodb,express,react,nodejs,linux&theme=dark)](https://skillicons.dev)
+
+## Other skills
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,bots,angular,firebase,java,css,cpp,cs,mysql,postgres,powershell&theme=dark)](https://skillicons.dev)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendall-camacho&" alt="kendall-camacho" /></p>
 
