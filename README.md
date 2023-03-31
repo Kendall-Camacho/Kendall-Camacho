@@ -6,7 +6,7 @@ I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,css,git,html,js,bootstrap,vite,flask,vite,github,mongodb,express,react,nodejs,linux,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,css,git,html,js,bootstrap,flask,vite,github,mongodb,express,react,nodejs,linux,firebase&theme=dark)](https://skillicons.dev)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendall-camacho&" alt="kendall-camacho" /></p>
 
