@@ -12,7 +12,7 @@ I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript
 
 ## Other skills
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,bots,angular,firebase,java,css,cpp,cs,mysql,postgres,powershell&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,bots,angular,firebase,java,css,cpp,mysql,postgres,powershell&theme=dark)](https://skillicons.dev)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendall-camacho&" alt="kendall-camacho" /></p>
 
