@@ -1,7 +1,7 @@
 # Hello! I am Kendall Camacho.
 
 ## My background
-Hi there!!! I am web developer and support technician (still in progress) with a passion for hacking. I have been programming for about 2 years and I specialize in Python and JavaScript. In addition to my development skills, I also have experience with Linux and MongoDB.
+Hi there!!! I am web developer and support technician (still in progress) with a passion for hacking. I have been programming for about 2 years and I specialize in Python and JavaScript. In addition to my development skills, I also have experience with Linux and CyberSecurity.
 I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript.com/) coder.
 
 ## Main skills
