@@ -1,8 +1,7 @@
 # Hello! I am Kendall Camacho.
 
 ## My background
-Hi there!!! I am web developer and support technician (still in progress) with a passion for hacking. I have been programming for about 2 years and I specialize in Python and JavaScript. In addition to my development skills, I also have experience with Linux and CyberSecurity.
-I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript.com/) coder.
+Hi there! I am a web developer and support technician with a passion for hacking. I have been programming since 2021, specializing in Python and JavaScript. I hold a technical degree and am currently pursuing a Bachelor's in Cybersecurity. In addition to my development skills, I have hands-on experience with Linux and Cybersecurity. I am proficient in [Python](https://www.python.org/) and [JavaScript](https://www.javascript.com/), and I am continuously expanding my knowledge to stay current in the field.
 
 ## Main skills
 
@@ -15,7 +14,6 @@ I am a [Python](https://www.python.org/) and [JavaScript](https://www.javascript
 [![My Skills](https://skillicons.dev/icons?i=arduino,bots,angular,firebase,java,css,cpp,mysql,postgres,powershell&theme=dark)](https://skillicons.dev)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendall-camacho&" alt="kendall-camacho" /></p>
-
 
 ## Connect With Me:
 <p align="left">
