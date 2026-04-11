@@ -1,36 +1,81 @@
-# Hello! I am Kendall Camacho.
+# 🛡️ Kendall Camacho | Cybersecurity Operator
 
-## My background
-Hi there! I am a web developer and support technician with a passion for hacking. I have been programming since 2021, specializing in Python and JavaScript. I hold a technical degree and am currently pursuing a Bachelor's in Cybersecurity. In addition to my development skills, I have hands-on experience with Linux and Cybersecurity. I am proficient in [Python](https://www.python.org/) and [JavaScript](https://www.javascript.com/), and I am continuously expanding my knowledge to stay current in the field.
-
-## Main skills
-
-<!-- python git js flask github mongodb express react nodejs linux, firebase, -->
-
-[![My Skills](https://skillicons.dev/icons?i=py,git,html,js,flask,vite,github,mongodb,express,react,nodejs,linux&theme=dark)](https://skillicons.dev)
-
-## Other skills
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,bots,angular,firebase,java,css,cpp,mysql,postgres,powershell&theme=dark)](https://skillicons.dev)
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendall-camacho&" alt="kendall-camacho" /></p>
-
-## Connect With Me:
 <p align="left">
-<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-<a href="https://twitter.com/644Camacho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="644camacho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kendall-camacho-24b895214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kendall-camacho-24b895214/" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100076193534743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/profile.php?id=100076193534743" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Role-Red%20Team%20%7C%20SOC%20Analyst-black?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years%20Web%20Dev-blue?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Certification-CCNA-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
-## Im learning
-[![My Skills](https://skillicons.dev/icons?i=angular,arduino,raspberrypi,bash,cs,dotnet,visualstudio,docker,nvim&theme=dark&perline=9)](https://skillicons.dev)
+---
 
-----------
+## ⚔️ Perfil
+Cybersecurity student con mentalidad ofensiva y experiencia real en desarrollo web. Especializado en identificación de vulnerabilidades, automatización de ataques controlados y análisis de infraestructura.
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendall-camacho&show_icons=true&locale=en&layout=compact" alt="kendall-camacho" /></p>
+- 🎯 **Especialización:** Red Teaming | SOC Analysis | Network Security  
+- 🧠 **Mentalidad:** Think like attacker, defend like engineer  
+- 🛠️ **Core Skill:** Desarrollo de herramientas ofensivas con Python  
+- 🌐 **Background:** 5+ años desarrollando aplicaciones web fullstack  
 
-#### You can see my portfolio [here](https://kendall-camacho.netlify.app/)
+---
 
+## 🧰 Cybersecurity Arsenal
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker&theme=dark"/>
+</p>
+
+### 🔍 Offensive Security
+<p>
+  <img src="https://img.shields.io/badge/Metasploit-05122A?style=flat&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BurpSuite-orange?style=flat&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=flat"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
+</p>
+
+### 🛡️ Defensive & SOC
+<p>
+  <img src="https://img.shields.io/badge/SIEM-Splunk-black?style=flat&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EDR-Security-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-critical-red?style=flat"/>
+</p>
+
+### 💻 Development
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,mysql,cpp,java&theme=dark"/>
+</p>
+
+---
+
+## 🧪 Proyectos Destacados
+- 🔐 **Network Scanner en Python** → detección de hosts, puertos y servicios
+- 🕵️ **Simulador de ataques (lab)** → pruebas controladas tipo red team
+- 🌐 **Aplicaciones web seguras** → implementación de buenas prácticas OWASP
+
+---
+
+## 🧠 Labs & Platforms
+<p>
+  <img src="https://img.shields.io/badge/HackTheBox-Active-green?style=for-the-badge&logo=hackthebox"/>
+  <img src="https://img.shields.io/badge/TryHackMe-Top%20Learner-red?style=for-the-badge&logo=tryhackme"/>
+</p>
+
+---
+
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kendall-camacho&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔗 Contacto
+<p>
+<a href="https://linkedin.com/in/kendall-camacho-24b895214/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://twitter.com/644Camacho">
+  <img src="https://img.shields.io/badge/Twitter-Tech-black?style=for-the-badge&logo=x"/>
+</a>
+</p>
 
