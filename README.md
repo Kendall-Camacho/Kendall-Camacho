@@ -62,6 +62,7 @@ I like building tools that solve actual problems: scanners, CRM workflows, secur
 ## 🧩 Featured Projects
 
 ### 🚀 KCLabs
+[![Visit KCLabs](https://img.shields.io/badge/Visit-KCLabs-red?style=for-the-badge&logo=vercel&logoColor=white)](https://kclabs.netlify.app/)
 
 **KCLabs** is my technology studio where I build websites, digital systems and internal tools for small businesses.
 
@@ -78,7 +79,7 @@ KCLabs is where I combine **software engineering, business strategy, sales, desi
 
 ---
 
-### 📊 LeadTracker Pro
+### 📊 [LeadTracker Pro](https://leadtracker-pro.netlify.app/)
 
 A lightweight CRM built to manage prospecting, follow-ups and sales pipelines.
 This project connects product thinking, databases, authentication, user roles and real-world sales operations.
